@@ -50,4 +50,3 @@ return info.innerHTML = 0 + "/500 Total de caracteres digitado";
 }
 info.innerHTML = "Caracteres restantes " + restantes + "/500"
 }
-.indexOf
